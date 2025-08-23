@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/UNAM_logo.svg" alt="UNAM Logo" width="100"/>
+
 </p>
 
 <h3 align="center">UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO</h3>
