@@ -21,3 +21,5 @@
 **GRUPO DE TEORÍA:** 06  
 
 **SEMESTRE:** 2026-1  
+
+*Carpeta de texturas y modelos:* https://drive.google.com/drive/folders/13PG9CqmDzsC0bUDKho_6a5IPv68XG2WT?usp=drive_link
